@@ -5,7 +5,7 @@
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.6</version>
-	<name>maven-github</name>
+	<name>my-app</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
