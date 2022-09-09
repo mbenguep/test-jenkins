@@ -4,7 +4,7 @@ node{
     }
     stage('compile-package'){
 
-        sh 'mvn package'
+        sh "usr/bin/mvn package"
     }
 
 
